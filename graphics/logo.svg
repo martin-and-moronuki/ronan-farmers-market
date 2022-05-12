@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.94787298"
-     inkscape:cx="289.06827"
-     inkscape:cy="263.22092"
+     inkscape:zoom="0.94328444"
+     inkscape:cx="-414.50912"
+     inkscape:cy="-136.22614"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer10"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -6583,7 +6583,7 @@ TfNb5L1h8TMj4CXD8LqCQe/u3bvdhiC+FgAAAAAA3kX0/wElmyMLPu0B0QAAAABJRU5ErkJggg==
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="raster off to the side"
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      sodipodi:insensitive="true">
     <image
        width="129.96333"
@@ -6716,6 +6716,37 @@ TfNb5L1h8TMj4CXD8LqCQe/u3bvdhiC+FgAAAAAA3kX0/wElmyMLPu0B0QAAAABJRU5ErkJggg==
        sodipodi:end="3.1415927"
        sodipodi:arc-type="slice"
        d="m 132.95631,70.362885 a 61.962173,61.978035 0 0 1 -30.98109,53.674555 61.962173,61.978035 0 0 1 -61.962175,0 A 61.962173,61.978035 0 0 1 9.0319595,70.362885 H 70.994133 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="slogan text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:10.3717px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.136003"
+       y="-85.845772"
+       id="text75137"><tspan
+         sodipodi:role="line"
+         id="tspan75135"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Copse;-inkscape-font-specification:'Copse Bold';stroke-width:0.264583"
+         x="16.136003"
+         y="-85.845772">Buy</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Copse;-inkscape-font-specification:'Copse Bold';stroke-width:0.264583"
+         x="16.136003"
+         y="-75.448837"
+         id="tspan75139">Locally</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Copse;-inkscape-font-specification:'Copse Bold';stroke-width:0.264583"
+         x="16.136003"
+         y="-65.051903"
+         id="tspan75141">Made and</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Copse;-inkscape-font-specification:'Copse Bold';stroke-width:0.264583"
+         x="16.136003"
+         y="-54.654968"
+         id="tspan75143">Grown</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
